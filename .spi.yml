@@ -6,4 +6,4 @@ version: 1
 builder:
   configs:
     - documentation_targets: [SnapshotPreferences, Snapshotting, SnapshottingTests, PreviewGallery]
-    platform: iOS
+      platform: iOS
